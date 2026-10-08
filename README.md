@@ -84,11 +84,6 @@ Meu foco está na interseção entre **produto, engenharia de software e IA apli
 
 ## 🚀 Projetos e produtos
 
-### 🔴 [VEX Questionário de Entrevistas](https://github.com/eduardospiess38-dot/vex-questionario-entrevistas)
-Experiência web para coleta e visualização de respostas, construída com identidade própria da VEX.
-
-`HTML` `CSS` `JavaScript` `Product Design`
-
 ### 🧩 VEX
 Automações, agentes de IA e ferramentas web voltadas a ganho de tempo, eficiência operacional e crescimento.
 
